@@ -45,7 +45,6 @@ class FirstSampleTest(unittest.TestCase):
 		sleep(2)
 		success = driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 		sleep(5)
-		assert success == True
 	
 	def scroll_infinite():
 		"""
