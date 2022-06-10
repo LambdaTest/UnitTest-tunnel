@@ -18,7 +18,8 @@ class FirstSampleTest(unittest.TestCase):
 				"build": "UnitTest-Selenium-Sample",
 				"name": "UnitTest-Selenium-Test",
 				"platformName": "Windows 11",
-				"selenium_version": "4.0.0"
+				"selenium_version": "4.0.0",
+				"tunnel": True,
 			},
 			"browserName": "Chrome",
 			"browserVersion": "latest",
