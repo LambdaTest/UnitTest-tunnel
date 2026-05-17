@@ -5,10 +5,19 @@
   <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
 </p>
 
-If you want to run an automation test in UnitTest on TestMu AI (Formerly LambdaTest) using the tunnel and want to start the tunnel automatically in the script, you can use the following steps.
+## Getting Started
+
+[TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks.
+
+With TestMu AI (Formerly LambdaTest), you can run UnitTest Tests With Tunnel across real browsers and operating systems.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
+
+### Prerequisites
+
+- Python 3.x and pip
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
 
 ## Steps
 
@@ -19,7 +28,6 @@ Go to your TestMu AI (Formerly LambdaTest) dashboard and click the configure tun
 ### Step 2: Code to run tunnel before test
 
 The tunnel should be started before test case execution and end after completion. To achieve this, tunnel can be started in the main function like so: 
-
 
 ```python
 import subprocess
