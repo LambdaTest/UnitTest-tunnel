@@ -5,16 +5,16 @@
   <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
 </p>
 
-If you want to run an automation test in UnitTest on TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) using the tunnel and want to start the tunnel automatically in the script, you can use the following steps.
+If you want to run an automation test in UnitTest on TestMu AI (Formerly LambdaTest) using the tunnel and want to start the tunnel automatically in the script, you can use the following steps.
 
-- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly TestMu AI (Formerly LambdaTest)).
+- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
 ## Steps
 
 ### Step 1: Download the tunnel binary from the Dashboard
 
-Go to your TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) dashboard and click the configure tunnel button on the top right corner and use the download link to download the binary file.
+Go to your TestMu AI (Formerly LambdaTest) dashboard and click the configure tunnel button on the top right corner and use the download link to download the binary file.
 
 ### Step 2: Code to run tunnel before test
 
@@ -60,15 +60,15 @@ desired_caps = {
 python lambdatest_test.py
 ```
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community
+## TestMu AI (Formerly LambdaTest) Community
 
 Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Certifications
+## TestMu AI (Formerly LambdaTest) Certifications
 
 Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
 
-## Learning Resources by TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
+## Learning Resources by TestMu AI (Formerly LambdaTest)
 
 Learn modern testing through tutorials, guides, videos, and weekly updates:
 
