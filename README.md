@@ -19,6 +19,11 @@ With TestMu AI (Formerly LambdaTest), you can run UnitTest Tests With Tunnel acr
 - Python 3.x and pip
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Python 3.x and pip
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 ## Steps
 
 ### Step 1: Download the tunnel binary from the Dashboard
